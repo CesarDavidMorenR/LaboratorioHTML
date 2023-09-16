@@ -32,9 +32,16 @@ body {
 }
 
 .title {
-  font-size: 32px;
+  color: #828080;
+  margin-left: 20px;
 }
 
 .price {
-  font-size: 14px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.info-card {
+  display: flex;
+  justify-content: space-between;
 }
